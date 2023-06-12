@@ -1,7 +1,7 @@
 # Soyoung's archive for DeepLearning.AI - Machine Learning Engineering for Production (MLOps) Specialization
 Please do not fork, share or copy the labs as this repo is meant to be Soyoung's archive for her own study DeepLearning.AI - Machine Learning Engineering for Production (MLOps) Specialization
 
-## Course 1. Introduction to Machine Learning in Production
+## Course 1. [Introduction to Machine Learning in Production](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/home/week/1)
 
 ### Week 1. Overview of the ML Lifecycle and Deployment  
 introduction to machine learning production systems focusing on their requirements and challenges. Next, the week focuses on deploying production systems and what is needed to do so robustly while facing constantly changing data.  
@@ -73,7 +73,7 @@ Ungraded Lab: Data Labeling
 
 Graded: Data Stage of the ML Production Lifecycle  
 
-## Course 2. Machine Learning Data Life cycle in Production  
+## Course 2. [Machine Learning Data Life cycle in Production](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production/home/week/1) 
 
 ### Week 1. Collecting, Labeling and Validating Data   
 
@@ -168,7 +168,7 @@ Reading: Acknowledegements
 
 
 
-## Course 3. Machine Learning Modeling Pipelines in Production
+## Course 3. [Machine Learning Modeling Pipelines in Production](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production/home/week/1)
 Learn how to effectively search for the best model that will scale for various serving needs while constraining model complexity and hardware requirements.
 
 ### Week 1.  Neural Architecture Search  
@@ -297,7 +297,7 @@ Video: AI Explanations
 Reading: AI Explanations  
 Practice Quiz: Understanding Model Predictions   
 
-## Corurse 4. Deploying Machine Learning Models in Production
+## Corurse 4. [Deploying Machine Learning Models in Production](https://www.coursera.org/learn/deploying-machine-learning-models-in-production/home/week/1)
 
 ### Week 1. Model Serving: Introduction 
 Learn how to make your ML model available to end-users and optimize the inference process
