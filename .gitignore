@@ -1,3 +1,15 @@
 /videos
 .DS_Store
 *.pkl
+*.zip
+*checkpoint*
+__pycache__
+*/data/*
+*/img/*
+*tar.gz
+course2_Machine Learning Data Life cycle in Production/Old_week4-ungraded-lab_Feature Engineering with Images/data/jena_climate_2009_2016.csv
+course2_Machine Learning Data Life cycle in Production/C2_W3_ML Metadata/data/census_data/adult.data
+course2_Machine Learning Data Life cycle in Production/C2_W4_signals_Accelerometer Data_ Images/data/jena_climate_2009_2016.csv
+course2_Machine Learning Data Life cycle in Production/C2_W1_TFDV Exercise/data/adult.data
+course2_Machine Learning Data Life cycle in Production/C2_W2_Simple Feature Engineerin/data/breast_cancer_data.csv
+course2_Machine Learning Data Life cycle in Production/C2_W2_Simple Feature Engineerin/data/census_data/adult.data
