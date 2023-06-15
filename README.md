@@ -183,11 +183,7 @@ Video: Understanding Search Spaces
 Video: Search Strategies  
 Reading: Neural Architecture Search  
 Video: Measuring AutoML Efficacy  
-Video: AutoML on the Cloud  
-Reading: AutoML  
-Practice Quiz: AutoML  
-Video: Assignment Setup  
-App Item: A Tour of Qwiklabs and Google Cloud    
+Video: AutoML on the Cloud   
 
 Graded: Classify Images of Clouds in the Cloud with AutoML Vision  
 
@@ -212,12 +208,7 @@ Video: Benefits and Process of Quantization
 Video: Post Training Quantization  
 Video: Quantization Aware Training  
 Reading: Quantization  
-Video: Pruning  
-Reading: Pruning  
-Practice Quiz: Quantization and Pruning  
-Reading: Ungraded Lab - Quantization and Pruning  
-App Item: Lecture Notes W2  
-
+Video: Pruning   
 
 ### Week 3.  High-Performance Modeling  
 Implement distributed processing and parallelism techniques to make the most of your computational resources for training your models efficiently.  
