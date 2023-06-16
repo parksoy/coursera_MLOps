@@ -228,6 +228,14 @@ Practice Quiz: Knowledge Distillation
 
 Graded: Distributed Multi-worker TensorFlow Training on Kubernetes  
 
+https://googlecoursera.qwiklabs.com/focuses/28638440?parent=lti_session
+
+what is distributed:https://github.com/GoogleCloudPlatform/mlops-on-gcp/blob/master/workshops/mlep-qwiklabs/distributed-training-gke/mnist/main.py
+
+* main.py file contains data preprocessing routines and a distributed training loop. Review the files. Notice how you can use a tf.distribute.experimental.MultiWorkerMirrorStrategy() object to retrieve information about the topology of the distributed cluster running a job.
+
+
+
 
 ### Week 4: Model Analysis
 Use model performance analysis to debug and remediate your model and measure robustness, fairness, and stability.  

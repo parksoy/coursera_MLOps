@@ -5,6 +5,20 @@
 *checkpoint*
 __pycache__
 */data/*
+*tfrecord*
+*.whl
+*.pb
+*.pbtxt
+*.gz
+*.index
+MANIFEST
+*.json
+*vocab*
+*variables*
+*METADATA*
+*sqlite
+*.tfevents*
+*.csv
 */img/*
 *tar.gz
 course2_Machine Learning Data Life cycle in Production/Old_week4-ungraded-lab_Feature Engineering with Images/data/jena_climate_2009_2016.csv
