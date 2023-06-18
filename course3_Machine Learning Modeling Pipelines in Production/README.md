@@ -86,6 +86,7 @@ Video: Model Debugging Overview
 Video: Benchmark Models  
 Video: Sensitivity Analysis and Adversarial Attacks  
 Video: Adversarial Attack Demo  
+https://www.tensorflow.org/tutorials/generative/adversarial_fgsm
 Reading: Sensitivity Analysis and Adversarial Attacks  
 Video: Residual Analysis  
 Video: Model Remediation  
@@ -93,8 +94,7 @@ Video: Fairness
 Video: Measuring Fairness  
 Reading: Ungraded Lab - Fairness Indicators  
 Reading: Model Remediation and Fairness  
-Practice Quiz: Model Analysis and Debugging  
-Reading: [IMPORTANT] Information about the Week 4 assignment  
+Practice Quiz: Model Analysis and Debugging    
 Video: Continuous Evaluation and Monitoring  
 Reading: Continuous Evaluation and Monitoring  
 Practice Quiz: Continuous Evaluation and Monitoring   
